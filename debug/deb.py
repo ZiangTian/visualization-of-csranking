@@ -102,7 +102,7 @@ def scrape_university_list(url, country_name):
         # Creating a DataFrame and saving to CSV
         columns = ['Rank', 'University', 'Faculty Count', 'Publication Count']
         df = pd.DataFrame(data, columns=columns)
-        df.to_csv('./try/Institutions_{}.csv'.format(country_name), index=False)
+        df.to_csv('./detailed/Institutions_{}.csv'.format(country_name), index=False)
 
         print(bcolors.OKGREEN + "SUCCESS! Institutions_{}.csv file is created successfully".format(country_name) + bcolors.ENDC)
 
