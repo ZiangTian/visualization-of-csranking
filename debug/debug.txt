@@ -1,0 +1,11 @@
+print(td.findPrevious().findPrevious())
+<td>1    </td>
+
+td.findNext()
+<span onclick="csr.toggleFaculty('Univ.%20of%20Illinois%20at%20Urbana-Champaign');">Univ. of Illinois at Urbana-Champaign</span>
+
+td.findNext().findNext().findNext().findNext().findNext()
+<td align="right">44.5</td>
+
+td.findNext().findNext().findNext().findNext().findNext().findNext()
+<td align="right">23</td>
