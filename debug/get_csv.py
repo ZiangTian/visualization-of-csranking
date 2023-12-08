@@ -46,7 +46,8 @@ def scrape_university_list(url, country_name):
     # driver.get("https://www.google.com")
     
     driver = webdriver.Chrome(executable_path="C:/Program Files/Google/Chrome/Application/chromedriver.exe",
-                              options = chrome_options)
+                              options = chrome_options) # necessary to set options, otherwise gets blocked
+    
     # driver = webdriver.Chrome(ChromeDriverManager().install())
     driver.get(url)
     time.sleep(2)
@@ -92,9 +93,11 @@ def scrape_university_list(url, country_name):
             university_name = td.findNext().get_text(strip=True)
 
             # Finding the correct sibling for faculty count (td[3])
+            # use debug mode to test the correct sibling
             faculty_count = td.findNext().findNext().findNext().findNext().findNext().findNext().get_text(strip=True)
 
             # Finding the correct sibling for publication count (td[4])
+            # use debug mode as well
             publication_count = td.findNext().findNext().findNext().findNext().findNext().get_text(strip=True)
 
             data.append([rank, university_name, faculty_count, publication_count])
