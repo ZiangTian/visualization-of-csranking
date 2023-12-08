@@ -1,0 +1,101 @@
+rank,institution,rank_AI,rank_Systems,rank_Theory,rank_Interdisciplinary_Areas,rank_Architecture,rank_Network,rank_Database,rank_HPC,rank_metrics,rank_Operating_System,rank_Programming_Language
+1.0,Carnegie Mellon University,2.0,2.0,1.0,1.0,10.0,3.0,11.0,,4.0,4.0,2.0
+2.0,Univ. of Illinois at Urbana-Champaign,6.0,1.0,2.0,13.0,1.0,8.0,,2.0,12.0,16.0,8.0
+3.0,Univ. of California - San Diego,15.0,4.0,23.0,9.0,14.0,7.0,18.0,,2.0,18.0,18.0
+4.0,Tsinghua University,1.0,6.0,,8.0,,14.0,3.0,9.0,20.0,12.0,
+5.0,Georgia Institute of Technology,19.0,8.0,26.0,5.0,3.0,,23.0,5.0,3.0,17.0,
+6.0,Massachusetts Institute of Technology,28.0,7.0,4.0,7.0,4.0,1.0,17.0,,8.0,1.0,4.0
+7.0,Univ. of California - Berkeley,20.0,9.0,3.0,11.0,,2.0,7.0,27.0,,3.0,
+8.0,University of Michigan,23.0,5.0,21.0,14.0,2.0,17.0,21.0,,9.0,10.0,
+9.0,ETH Zurich,30.0,3.0,20.0,12.0,17.0,15.0,,1.0,24.0,13.0,3.0
+10.0,University of Washington,26.0,16.0,7.0,6.0,28.0,5.0,25.0,,23.0,6.0,20.0
+11.0,Stanford University,12.0,24.0,9.0,3.0,18.0,6.0,,,,22.0,15.0
+12.0,Cornell University,8.0,21.0,11.0,10.0,20.0,10.0,19.0,,,20.0,6.0
+13.0,University of Maryland - College Park,14.0,27.0,,2.0,,23.0,,28.0,22.0,,28.0
+14.0,Peking University,3.0,15.0,,18.0,,11.0,12.0,,,25.0,
+15.0,University of Toronto,,,13.0,4.0,9.0,,,,,11.0,16.0
+16.0,National University of Singapore,11.0,10.0,,,,,2.0,21.0,,30.0,19.0
+16.0,Northeastern University,,18.0,15.0,15.0,,,,15.0,1.0,,25.0
+18.0,Shanghai Jiao Tong University,5.0,11.0,,,13.0,,,8.0,,2.0,
+19.0,KAIST,10.0,16.0,,16.0,8.0,24.0,,,29.0,,24.0
+19.0,University of Wisconsin - Madison,,13.0,25.0,,6.0,27.0,27.0,,17.0,5.0,5.0
+21.0,Purdue University,,11.0,,29.0,7.0,,,16.0,30.0,23.0,10.0
+21.0,University of Texas at Austin,,20.0,6.0,,,11.0,,,,8.0,12.0
+23.0,University of Pennsylvania,,24.0,,20.0,30.0,19.0,,,,14.0,7.0
+24.0,Columbia University,,27.0,,20.0,,,,,10.0,7.0,
+25.0,University of Waterloo,,30.0,21.0,23.0,,28.0,6.0,,,30.0,
+26.0,Princeton University,,30.0,26.0,17.0,11.0,4.0,,,26.0,20.0,17.0
+27.0,Max Planck Society,,,10.0,,,,,,13.0,30.0,1.0
+28.0,New York University,,,12.0,29.0,,21.0,,,,14.0,
+29.0,EPFL,,22.0,29.0,,25.0,18.0,16.0,,25.0,9.0,
+30.0,University of Massachusetts Amherst,23.0,,,,,20.0,,29.0,5.0,,
+,Chinese Academy of Sciences,4.0,,,,,,,,,,
+,Zhejiang University,7.0,,,25.0,,,14.0,,,,
+,Nanyang Technological University,9.0,,,,,,9.0,,,,
+,Nanjing University,13.0,,,,,,,,,,21.0
+,Harbin Institute of Technology,16.0,,,,,,,,,,
+,HKUST,17.0,,,,,,1.0,,,,
+,Renmin University of China,17.0,,,,,,24.0,,,,
+,MBZUAI,21.0,,,,,,,,,,
+,Fudan University,22.0,,,,,,,,,,
+,Chinese University of Hong Kong,25.0,,,,,,4.0,,,,
+,Univ. of California - Los Angeles,26.0,,16.0,,,13.0,,,,28.0,26.0
+,Technion,29.0,,23.0,,24.0,30.0,,,,,
+,Univ. of California - Riverside,,13.0,,,16.0,,,7.0,15.0,,
+,University of Chicago,,18.0,,,15.0,21.0,8.0,14.0,19.0,18.0,
+,Pennsylvania State University,,23.0,,,5.0,,,,7.0,24.0,
+,Univ. of California - Irvine,,24.0,,,,,29.0,,,,
+,North Carolina State University,,27.0,,,12.0,,,3.0,,,
+,University of Warsaw,,,5.0,,,,,,,,
+,Tel Aviv University,,,8.0,,,,,,,,28.0
+,Hebrew University of Jerusalem,,,14.0,,,,,,,,
+,CISPA Helmholtz Center,,,17.0,,,,,,,,
+,IST Austria,,,18.0,,,,,,,,
+,Aarhus University,,,19.0,,,,,,,,9.0
+,Weizmann Institute of Science,,,28.0,,,,,,,,
+,University of Oxford,,,30.0,,,,,,,,23.0
+,University College London,,,,18.0,,26.0,,,,,
+,TU Munich,,,,20.0,,,5.0,18.0,,,
+,University of Utah,,,,23.0,,,,4.0,,,14.0
+,Simon Fraser University,,,,25.0,,,,,,,
+,George Mason University,,,,27.0,,,,,,,
+,University of British Columbia,,,,28.0,26.0,,,,,,
+,University of Tokyo,,,,29.0,,,,,,,
+,Seoul National University,,,,,19.0,,,,,,
+,Univ. of California - Santa Barbara,,,,,21.0,,26.0,,,,
+,University of Virginia,,,,,22.0,,,,,,
+,Yale University,,,,,23.0,28.0,,,,,
+,Uppsala University,,,,,26.0,,,,,,
+,University of Rochester,,,,,28.0,,,,,,
+,University of Southern California,,,,,,9.0,,,17.0,,
+,Harvard University,,,,,,16.0,,,,29.0,
+,Rice University,,,,,,24.0,,13.0,,,
+,UNSW,,,,,,,10.0,,,,
+,Duke University,,,,,,,12.0,,,,
+,University of Edinburgh,,,,,,,15.0,,,,22.0
+,Aalborg University,,,,,,,20.0,,,,
+,University of Technology Sydney,,,,,,,22.0,,,,
+,Hong Kong Baptist University,,,,,,,28.0,,,,
+,Hasso Plattner Institute,,,,,,,30.0,,,,
+,Ohio State University,,,,,,,,6.0,11.0,,
+,Univ. of California - Merced,,,,,,,,10.0,,,
+,HUST,,,,,,,,11.0,,,
+,National Cheng Kung University,,,,,,,,12.0,,,
+,University of Texas at Arlington,,,,,,,,17.0,,,
+,Indiana University,,,,,,,,19.0,,,30.0
+,Virginia Tech,,,,,,,,20.0,,,
+,Illinois Institute of Technology,,,,,,,,22.0,,,
+,Polytechnic University of Catalonia,,,,,,,,22.0,,,
+,University of Minnesota,,,,,,,,24.0,,,
+,University of Georgia,,,,,,,,25.0,,,
+,National Chiao Tung University,,,,,,,,26.0,,,
+,Northwestern University,,,,,,,,29.0,27.0,,
+,University of Tennessee,,,,,,,,29.0,,,
+,TU Delft,,,,,,,,,6.0,,
+,California Institute of Technology,,,,,,,,,13.0,,
+,Stony Brook University,,,,,,,,,15.0,26.0,
+,IMDEA Networks Institute,,,,,,,,,20.0,,
+,University of Waikato,,,,,,,,,27.0,,
+,Imperial College London,,,,,,,,,,27.0,11.0
+,University of Cambridge,,,,,,,,,,,13.0
+,University of Kent,,,,,,,,,,,27.0

@@ -1,0 +1,114 @@
+rank,institution,rank_AI,rank_Systems,rank_Theory,rank_Interdisciplinary_Areas,rank_Architecture,rank_Network,rank_Database,rank_HPC,rank_metrics,rank_Operating_System,rank_Programming_Language
+1.0,ETH Zurich,2.0,1.0,8.0,1.0,1.0,1.0,6.0,1.0,4.0,2.0,2.0
+2.0,Max Planck Society,5.0,3.0,3.0,4.0,14.0,6.0,,22.0,2.0,4.0,1.0
+3.0,EPFL,4.0,2.0,11.0,14.0,3.0,2.0,3.0,,5.0,1.0,22.0
+4.0,Technion,1.0,4.0,9.0,17.0,2.0,4.0,12.0,22.0,11.0,6.0,13.0
+4.0,Tel Aviv University,7.0,10.0,2.0,5.0,8.0,22.0,9.0,15.0,,6.0,9.0
+4.0,University of Edinburgh,6.0,4.0,17.0,6.0,7.0,11.0,2.0,6.0,,11.0,6.0
+7.0,TU Munich,19.0,7.0,,3.0,20.0,27.0,1.0,2.0,8.0,,
+8.0,Imperial College London,9.0,4.0,,,11.0,27.0,14.0,,10.0,3.0,4.0
+9.0,University College London,13.0,14.0,,2.0,,3.0,,,17.0,11.0,
+9.0,University of Oxford,8.0,19.0,12.0,14.0,,,16.0,,,,7.0
+11.0,TU Delft,16.0,7.0,,8.0,16.0,15.0,,22.0,1.0,,24.0
+12.0,Hebrew University of Jerusalem,10.0,30.0,4.0,,,5.0,18.0,,29.0,8.0,
+12.0,TU Darmstadt,14.0,7.0,,22.0,,11.0,8.0,18.0,28.0,,
+12.0,University of Cambridge,18.0,10.0,,22.0,8.0,7.0,,22.0,13.0,10.0,5.0
+15.0,Saarland University,28.0,12.0,,17.0,25.0,,21.0,30.0,,,16.0
+16.0,Aarhus University,,19.0,7.0,16.0,,,20.0,,,,3.0
+17.0,CISPA Helmholtz Center,,14.0,5.0,,,,,,8.0,,
+18.0,Bar-Ilan University,15.0,,15.0,,,,24.0,,,,
+18.0,RWTH Aachen University,,,21.0,12.0,,,,30.0,20.0,,
+18.0,Sapienza University of Rome,17.0,,,28.0,23.0,,30.0,,29.0,18.0,
+18.0,TU Berlin,,27.0,,10.0,,10.0,7.0,,7.0,,
+18.0,TU Wien,,19.0,26.0,22.0,,,,30.0,29.0,,
+18.0,Universidade de Lisboa,24.0,14.0,,17.0,15.0,11.0,,,,5.0,26.0
+18.0,University of Copenhagen,11.0,,25.0,,,,25.0,22.0,,,28.0
+25.0,IST Austria,,,6.0,,,,,,,18.0,10.0
+25.0,University of Amsterdam,3.0,,,,,,23.0,,,,
+25.0,University of Stuttgart,,19.0,,28.0,25.0,,,22.0,,,
+25.0,University of Warwick,28.0,,14.0,,,,10.0,12.0,19.0,,
+29.0,Aalto University,,,,10.0,,,,,,,
+29.0,Graz University of Technology,,,,12.0,,,,9.0,,,
+29.0,King's College London,26.0,,26.0,,,,,,,,
+29.0,LMU Munich,12.0,,,,,,,,,,
+29.0,University of Bristol,,,26.0,21.0,,,,,,,21.0
+,University of Surrey,20.0,,,,,,,,21.0,,
+,University of Trento,20.0,,,,,,,,,11.0,
+,University of Tübingen,22.0,,,28.0,,,,,,,
+,Queen Mary University of London,23.0,,,,,22.0,,,6.0,,
+,Ben-Gurion University of the Negev,25.0,,,,,,,,,,
+,Cardiff University,26.0,,,,,,,,,,
+,University of Liverpool,28.0,,19.0,,17.0,,,,,,
+,Uppsala University,,12.0,,,4.0,,,9.0,,,16.0
+,KTH Royal Institute of Technology,,14.0,,,20.0,8.0,30.0,7.0,24.0,16.0,
+,VU Amsterdam,,14.0,,,12.0,17.0,,18.0,16.0,9.0,
+,Chalmers/GU,,19.0,,,19.0,,,15.0,,18.0,15.0
+,Politecnico di Milano,,24.0,,,,9.0,,,,16.0,
+,TU Dortmund,,24.0,,,,22.0,25.0,,,,
+,TU Dresden,,24.0,,,20.0,27.0,22.0,9.0,17.0,11.0,
+,IMDEA Software Institute,,27.0,,,,,,,29.0,18.0,11.0
+,KU Leuven,,27.0,,,,,,,,,12.0
+,Ruhr-University Bochum,,30.0,18.0,,,,,,,,
+,University of Warsaw,,,1.0,,,,,,,,
+,Weizmann Institute of Science,,,10.0,,,,,,,,
+,Ecole Normale Superieure de Lyon,,,13.0,,,,,5.0,24.0,,19.0
+,Ecole Normale Superieure,,,16.0,,,,,,,,16.0
+,University of Wroclaw,,,20.0,,,,,,,,27.0
+,IT University of Copenhagen,,,21.0,,,,,,,,20.0
+,Radboud University,,,23.0,,,,,,,,13.0
+,University of Haifa,,,23.0,,,,,,,,
+,DTU,,,26.0,,,,,,,,
+,University of Birmingham,,,26.0,,,,,,,,28.0
+,University of Bonn,,,,7.0,,,,,,,
+,Karlsruhe Institute of Technology,,,,9.0,,,,,,,
+,CRIStAL,,,,17.0,,,,,,,
+,University of Bath,,,,22.0,,,,,,,
+,University of Bremen,,,,22.0,,,,,,,
+,University of Glasgow,,,,22.0,,,,,24.0,,
+,University of Zurich,,,,28.0,,,,,,,
+,University of Murcia,,,,,5.0,,,7.0,,,
+,Polytechnic University of Catalonia,,,,,6.0,,,3.0,29.0,,
+,NTNU,,,,,10.0,,,,,,
+,University of Athens,,,,,13.0,,,,,,
+,NTUA,,,,,18.0,,,13.0,27.0,,
+,Queen's University Belfast,,,,,23.0,,,4.0,,,
+,Bilkent University,,,,,25.0,,,,,,
+,Mälardalen University,,,,,25.0,,,,,,
+,University of Kent,,,,,25.0,15.0,,,,,8.0
+,Università della Svizzera italiana,,,,,25.0,27.0,,,,,
+,Özyeğin University,,,,,25.0,,,,,,
+,Goethe University Frankfurt,,,,,,14.0,,,,,
+,Hamburg University of Technology,,,,,,17.0,,,,18.0,
+,Humboldt University of Berlin,,,,,,17.0,15.0,,,,
+,IMDEA Networks Institute,,,,,,17.0,,,3.0,,
+,Lancaster University,,,,,,17.0,,,13.0,11.0,
+,Cyprus University of Technology,,,,,,25.0,,,,,
+,University of Göttingen,,,,,,25.0,,,,,
+,Ariel University,,,,,,27.0,,,,,
+,University of Lübeck,,,,,,27.0,,,,,
+,University of St Andrews,,,,,,27.0,,,,,
+,Aalborg University,,,,,,,4.0,,,,
+,Hasso Plattner Institute,,,,,,,5.0,,,,
+,University of Mannheim,,,,,,,11.0,,,,
+,CWI,,,,,,,12.0,,,,
+,University of Ioannina,,,,,,,17.0,,,,
+,EURECOM,,,,,,,18.0,,,,
+,University of Hannover,,,,,,,25.0,,,18.0,
+,University of Helsinki,,,,,,,25.0,,,,
+,University of Salzburg,,,,,,,25.0,,,,
+,University of Mainz,,,,,,,,13.0,,,
+,University of Erlangen–Nuremberg,,,,,,,,15.0,,,
+,Koç University,,,,,,,,20.0,,,
+,University of Manchester,,,,,,,,20.0,,,
+,University of Innsbruck,,,,,,,,22.0,,,
+,University of Leeds,,,,,,,,22.0,,,
+,University of Salerno,,,,,,,,30.0,,,
+,Brandenburg University of Technology,,,,,,,,,12.0,,
+,University of Crete,,,,,,,,,13.0,,
+,TU Kaiserslautern,,,,,,,,,21.0,,
+,University of Strathclyde,,,,,,,,,21.0,,28.0
+,University of Twente,,,,,,,,,29.0,,
+,Royal Holloway University of London,,,,,,,,,,18.0,25.0
+,TU Braunschweig,,,,,,,,,,18.0,
+,University of Osnabrück,,,,,,,,,,18.0,
+,University of Freiburg,,,,,,,,,,,23.0

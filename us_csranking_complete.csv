@@ -1,0 +1,70 @@
+rank,institution,rank_AI,rank_Systems,rank_Theory,rank_Interdisciplinary_Areas,rank_Architecture,rank_Network,rank_Database,rank_HPC,rank_metrics,rank_Operating_System,rank_Programming_Language
+1.0,Carnegie Mellon University,1.0,2.0,1.0,1.0,8.0,3.0,3.0,,4.0,3.0,1.0
+2.0,Univ. of Illinois at Urbana-Champaign,2.0,1.0,2.0,10.0,1.0,8.0,18.0,1.0,11.0,11.0,6.0
+3.0,Univ. of California - San Diego,6.0,3.0,13.0,7.0,11.0,7.0,6.0,,2.0,13.0,12.0
+4.0,Georgia Institute of Technology,7.0,6.0,15.0,4.0,3.0,24.0,9.0,4.0,3.0,12.0,21.0
+5.0,Massachusetts Institute of Technology,13.0,5.0,4.0,6.0,4.0,1.0,5.0,,7.0,1.0,2.0
+6.0,Univ. of California - Berkeley,8.0,7.0,3.0,9.0,,2.0,1.0,18.0,,2.0,28.0
+7.0,University of Michigan,9.0,4.0,12.0,11.0,2.0,14.0,8.0,,8.0,8.0,21.0
+8.0,University of Washington,11.0,11.0,6.0,5.0,19.0,5.0,10.0,,19.0,5.0,13.0
+9.0,Stanford University,4.0,17.0,7.0,3.0,14.0,6.0,23.0,23.0,24.0,17.0,10.0
+10.0,Cornell University,3.0,15.0,8.0,8.0,15.0,10.0,7.0,,28.0,15.0,4.0
+11.0,University of Maryland - College Park,5.0,20.0,22.0,2.0,,19.0,15.0,19.0,18.0,,16.0
+12.0,Northeastern University,20.0,12.0,10.0,12.0,,,14.0,10.0,1.0,30.0,14.0
+13.0,University of Wisconsin - Madison,27.0,9.0,14.0,21.0,6.0,21.0,12.0,,15.0,4.0,3.0
+14.0,Purdue University,28.0,8.0,18.0,18.0,7.0,27.0,25.0,11.0,22.0,18.0,7.0
+14.0,University of Texas at Austin,18.0,14.0,5.0,,22.0,11.0,,,23.0,7.0,8.0
+16.0,University of Pennsylvania,16.0,17.0,19.0,14.0,21.0,15.0,17.0,,,9.0,5.0
+17.0,Columbia University,19.0,20.0,17.0,14.0,27.0,28.0,24.0,,9.0,6.0,
+18.0,Princeton University,26.0,23.0,15.0,13.0,9.0,4.0,,,20.0,15.0,11.0
+19.0,New York University,15.0,,9.0,18.0,,17.0,,,,9.0,18.0
+20.0,University of Massachusetts Amherst,9.0,25.0,,24.0,,16.0,,20.0,5.0,30.0,30.0
+21.0,University of Southern California,17.0,24.0,26.0,29.0,,9.0,30.0,,15.0,25.0,30.0
+22.0,University of Chicago,,12.0,28.0,,12.0,17.0,2.0,9.0,17.0,13.0,
+23.0,Stony Brook University,24.0,29.0,25.0,24.0,,24.0,,,13.0,20.0,
+23.0,Univ. of California - Los Angeles,11.0,29.0,11.0,,29.0,12.0,,,,21.0,15.0
+25.0,Univ. of California - Irvine,,17.0,,,,,13.0,25.0,,,
+26.0,Duke University,29.0,25.0,,,26.0,23.0,4.0,,27.0,,
+26.0,Rutgers University,14.0,,27.0,26.0,,,27.0,,,,20.0
+26.0,Univ. of California - Santa Barbara,30.0,27.0,21.0,,16.0,,11.0,,,23.0,24.0
+29.0,Univ. of California - Riverside,,9.0,,,13.0,,22.0,6.0,13.0,,
+30.0,Pennsylvania State University,23.0,16.0,,,5.0,,20.0,,6.0,19.0,23.0
+,Johns Hopkins University,21.0,,23.0,,,,,,28.0,,
+,University of Illinois at Chicago,22.0,,,,,,30.0,,,,
+,University of North Carolina,25.0,,,,,,,,,,
+,Arizona State University,30.0,,,,,,,,,,
+,North Carolina State University,,20.0,,,10.0,,,2.0,30.0,,
+,Ohio State University,,27.0,,,,28.0,19.0,5.0,10.0,30.0,
+,Yale University,,,20.0,,18.0,22.0,,,,23.0,24.0
+,Boston University,,,23.0,,,,27.0,,26.0,,
+,Georgetown University,,,28.0,,,,,,,,
+,Harvard University,,,28.0,30.0,,13.0,21.0,,,22.0,26.0
+,University of Utah,,,,16.0,25.0,,,3.0,,28.0,9.0
+,George Mason University,,,,17.0,,,,,,,
+,Texas A&M University,,,,20.0,24.0,,,,,,
+,Brown University,,,,21.0,,,,,,28.0,
+,University of Minnesota,,,,21.0,,30.0,,16.0,,,
+,Northwestern University,,,,27.0,,,,20.0,21.0,,27.0
+,University of Colorado Boulder,,,,27.0,,,,,,,28.0
+,University of Virginia,,,,,17.0,26.0,,27.0,,,
+,University of Rochester,,,,,19.0,,,,,,
+,Virginia Tech,,,,,23.0,,,14.0,30.0,25.0,
+,Univ. of California - Santa Cruz,,,,,28.0,,,,,25.0,
+,University of Central Florida,,,,,30.0,,,,,,
+,Rice University,,,,,,20.0,,8.0,,,
+,University of Texas at Arlington,,,,,,,15.0,12.0,,,
+,University at Buffalo,,,,,,,26.0,,,,
+,Worcester Polytechnic Institute,,,,,,,27.0,,,,
+,Univ. of California - Merced,,,,,,,,7.0,,,
+,Indiana University,,,,,,,,13.0,,,17.0
+,Illinois Institute of Technology,,,,,,,,15.0,,,
+,University of Georgia,,,,,,,,17.0,,,
+,University of Tennessee,,,,,,,,20.0,,,
+,University of Iowa,,,,,,,,23.0,,,
+,University of Houston,,,,,,,,25.0,,,
+,Florida State University,,,,,,,,27.0,,,
+,University of Delaware,,,,,,,,27.0,,,
+,Washington State University,,,,,,,,27.0,,,
+,California Institute of Technology,,,,,,,,,12.0,,
+,Univ. of California - Davis,,,,,,,,,25.0,,
+,Stevens Institute of Technology,,,,,,,,,,,18.0
