@@ -1,0 +1,5 @@
+Rank,University,Faculty Count,Publication Count,region,field,abbr,Standardized Faculty Count,Standardized Publication Count,Discrepancy
+1,University of Toronto,9,6.6,CND,os,UT,1.3956510045920165,1.4376818611425366,-0.04203085655052008
+2,University of Waterloo,4,2.8,CND,os,UW,-0.07345531603115876,-0.12322987381221734,0.049774557781058576
+3,University of British Columbia,3,1.9,CND,os,UBC,-0.36727658015579384,-0.4929194952488696,0.12564291509307574
+4,Simon Fraser University,1,1.1,CND,os,SFU,-0.954919108405064,-0.8215324920814493,-0.1333866163236147
