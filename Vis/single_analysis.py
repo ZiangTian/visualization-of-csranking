@@ -33,10 +33,8 @@ for df in df_list:
 
 
 # Visualize the publication count by university for each file 
-
-for i in range(
+for i in range( 
     len(df_list)
-    # 2
     ):
 
     region = df_list[i]['region'][0]
@@ -60,7 +58,37 @@ for i in range(
         ax.text(p.get_x() + p.get_width() / 2., p.get_height(), '%d' % int(p.get_height()), 
                 fontsize=12, color='black', ha='center', va='bottom')
 
-    plt.savefig('./images/single_analysis/pubs_in_{}_{}.png'.format(field, region), dpi=300)
+    # plt.savefig('./images/single_analysis/pubs/pngs/pubs_in_{}_{}.png'.format(field, region), dpi=300)
+    plt.savefig('./images/single_analysis/pubs/svgs/pubs_in_{}_{}.svg'.format(field, region), dpi=300)
 
     # plt.show()
 
+# Visualize the faculty member count by university for each file
+for i in range( 
+    len(df_list)):
+
+    region = df_list[i]['region'][0]
+    field = df_list[i]['field'][0]
+
+    plt.figure(figsize=(12,12))
+    ax = sns.barplot(x='abbr', y='Faculty Count', data=df_list[i])
+    plt.title('Faculty Member Count by University in ' + field + ' ' + region + ' Institutions')
+
+    # Get the unique abbreviations and corresponding university names
+    abbr_names = df_list[i][['abbr', 'University']]
+
+    # Create a legend
+    patches = [mpatches.Patch(color=ax.patches[i].get_facecolor(), label=label) for i, label in enumerate(abbr_names['University'])]
+
+    # Add a legend to the plot
+    plt.legend(handles=patches, bbox_to_anchor=(0.8, 0.95), loc='upper center', borderaxespad=0.)
+
+    # Add the exact number on top of each bar
+    for p in ax.patches:
+        ax.text(p.get_x() + p.get_width() / 2., p.get_height(), '%d' % int(p.get_height()), 
+                fontsize=12, color='black', ha='center', va='bottom')
+
+    plt.savefig('./images/single_analysis/facs/pngs/faculty_in_{}_{}.png'.format(field, region), dpi=300)
+    plt.savefig('./images/single_analysis/facs/svgs/faculty_in_{}_{}.svg'.format(field, region), dpi=300)
+
+    # plt.show()
