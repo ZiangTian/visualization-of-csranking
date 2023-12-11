@@ -18,10 +18,11 @@ all_files = glob.glob('.\detailed\Institutions_*_*.csv')
 df_list = []
 for file in all_files:
     region, field = get_region_and_field(file)
-    df = pd.read_csv(file)
-    df['region'] = region
-    df['field'] = field
-    df_list.append(df)
+    if region == 'ASI' or region == 'AUS':
+        df = pd.read_csv(file)
+        df['region'] = region
+        df['field'] = field
+        df_list.append(df)
 
 # Add abbr column
 for df in df_list:
