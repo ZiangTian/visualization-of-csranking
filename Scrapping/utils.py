@@ -77,6 +77,40 @@ EURO_metr = "https://csrankings.org/#/index?metrics&europe"
 EURO_os = "https://csrankings.org/#/index?ops&europe"
 EURO_proglan = "https://csrankings.org/#/index?plan&europe"
 
+# Asia
+ASI_all = "https://csrankings.org/#/index?all&asia"
+## general fields
+ASI_ai  = "https://csrankings.org/#/index?ai&vision&mlmining&nlp&inforet&asia"
+ASI_sys = "https://csrankings.org/#/index?arch&comm&sec&mod&hpc&mobile&metrics&ops&plan&soft&da&bed&asia"
+ASI_the = "https://csrankings.org/#/index?act&crypt&log&asia"
+ASI_oth = "https://csrankings.org/#/index?graph&chi&robotics&bio&visualization&ecom&asia"
+## specific fields
+ASI_arch = "https://csrankings.org/#/index?arch&asia"
+ASI_network = "https://csrankings.org/#/index?comm&asia"
+ASI_database = "https://csrankings.org/#/index?mod&asia"
+ASI_hpc = "https://csrankings.org/#/index?hpc&asia"
+ASI_metr = "https://csrankings.org/#/index?metrics&asia"
+ASI_os = "https://csrankings.org/#/index?ops&asia"
+ASI_proglan = "https://csrankings.org/#/index?plan&asia"
+
+# Australasia
+AUS_all = "https://csrankings.org/#/index?all&australasia"
+## general fields
+AUS_ai  = "https://csrankings.org/#/index?ai&vision&mlmining&nlp&inforet&australasia"
+AUS_sys = "https://csrankings.org/#/index?arch&comm&sec&mod&hpc&mobile&metrics&ops&plan&soft&da&bed&australasia"
+AUS_the = "https://csrankings.org/#/index?act&crypt&log&australasia"
+AUS_oth = "https://csrankings.org/#/index?graph&chi&robotics&bio&visualization&ecom&australasia"
+## specific fields
+AUS_arch = "https://csrankings.org/#/index?arch&australasia"
+AUS_network = "https://csrankings.org/#/index?comm&australasia"
+AUS_database = "https://csrankings.org/#/index?mod&australasia"
+AUS_hpc = "https://csrankings.org/#/index?hpc&australasia"
+AUS_metr = "https://csrankings.org/#/index?metrics&australasia"
+AUS_os = "https://csrankings.org/#/index?ops&australasia"
+AUS_proglan = "https://csrankings.org/#/index?plan&australasia"
+
+
+
 
 class bcolors:
     HEADER = '\033[95m'

@@ -19,7 +19,8 @@ from utils import USA_all, USA_ai, USA_sys, USA_the, USA_oth, USA_arch, USA_netw
 from utils import CND_all, CND_ai, CND_sys, CND_the, CND_oth, CND_arch, CND_network, CND_database, CND_hpc, CND_metr, CND_os, CND_proglan
 from utils import WORLD_all, WORLD_ai, WORLD_sys, WORLD_the, WORLD_oth, WORLD_arch, WORLD_network, WORLD_database, WORLD_hpc, WORLD_metr, WORLD_os, WORLD_proglan
 from utils import EURO_all, EURO_ai, EURO_sys, EURO_the, EURO_oth, EURO_arch, EURO_network, EURO_database, EURO_hpc, EURO_metr, EURO_os, EURO_proglan
-
+from utils import ASI_all, ASI_ai, ASI_sys, ASI_the, ASI_oth, ASI_arch, ASI_network, ASI_database, ASI_hpc, ASI_metr, ASI_os, ASI_proglan
+from utils import AUS_all, AUS_ai, AUS_sys, AUS_the, AUS_oth, AUS_arch, AUS_network, AUS_database, AUS_hpc, AUS_metr, AUS_os, AUS_proglan
 
 chrome_options = webdriver.ChromeOptions()
 chrome_options.add_argument('--headless')
@@ -110,8 +111,26 @@ def scrape_university_list(url, country_name):
         print(bcolors.OKGREEN + "SUCCESS! Institutions_{}.csv file is created successfully".format(country_name) + bcolors.ENDC)
 
 
-
 if __name__ == "__main__":
+
+
+    # scrape_university_list(url=AUS_all, country_name='AUS_all')
+    # general fields
+    # scrape_university_list(url=AUS_ai , country_name='AUS_ai' )
+    # scrape_university_list(url=AUS_sys, country_name='AUS_sys')
+    # scrape_university_list(url=AUS_the, country_name='AUS_the')
+    # scrape_university_list(url=AUS_oth, country_name='AUS_oth')
+    # specific fields
+    # scrape_university_list(url=AUS_arch, country_name='AUS_arch' )
+    # scrape_university_list(url=AUS_network, country_name='AUS_network')
+    # scrape_university_list(url=AUS_database, country_name='AUS_database')
+    # scrape_university_list(url=AUS_hpc, country_name='AUS_hpc')
+    # scrape_university_list(url=AUS_metr, country_name='AUS_metr')
+    scrape_university_list(url=AUS_os, country_name='AUS_os')
+    # scrape_university_list(url=AUS_proglan, country_name='AUS_proglan')
+
+
+if __name__ != "__main__":
 
     # scrape_university_list(url=WORLD_all, country_name='WORLD_all')
     # general fields
@@ -173,6 +192,21 @@ if __name__ == "__main__":
     scrape_university_list(url=EURO_metr, country_name='EURO_metr')
     scrape_university_list(url=EURO_os, country_name='EURO_os')
     scrape_university_list(url=EURO_proglan, country_name='EURO_proglan')
+
+    scrape_university_list(url= ASI_all, country_name='ASI_all')
+    # general fields
+    scrape_university_list(url=ASI_ai , country_name='ASI_ai' )
+    scrape_university_list(url=ASI_sys, country_name='ASI_sys')
+    scrape_university_list(url=ASI_the, country_name='ASI_the')
+    scrape_university_list(url=ASI_oth, country_name='ASI_oth')
+    # specific fields
+    scrape_university_list(url=ASI_arch, country_name='ASI_arch' )
+    scrape_university_list(url=ASI_network, country_name='ASI_network')
+    scrape_university_list(url=ASI_database, country_name='ASI_database')
+    scrape_university_list(url=ASI_hpc, country_name='ASI_hpc')
+    scrape_university_list(url=ASI_metr, country_name='ASI_metr')
+    scrape_university_list(url=ASI_os, country_name='ASI_os')
+    scrape_university_list(url=ASI_proglan, country_name='ASI_proglan')
 
 
 # scrape_university_list(url=EURO_all, country_name='EURO_all')
