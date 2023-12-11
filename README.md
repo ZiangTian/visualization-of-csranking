@@ -17,7 +17,7 @@ analyze in :
 
 The difference between them. Which region is most academically achieved, imbalanced or equipped.
 
-
 ## 12/11/2023:
 
-Next: integrate gerographical vis
+- integrate gerographical vis to analyze the regional differences in a field.
+- integrate details files to analyze which fields are popular in a region.
