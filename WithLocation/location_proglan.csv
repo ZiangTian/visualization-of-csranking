@@ -1,0 +1,31 @@
+Rank,University,Faculty Count,Publication Count,field,location,lat,lon
+1,Max Planck Society,9,21.7,proglan,"SKA-MPI (Max Planck Society Precursor), Kareeberg Ward 4, Kareeberg Local Municipality, Pixley ka Seme District Municipality, Northern Cape, South Africa",-30.7179881,21.4130525
+2,Carnegie Mellon University,15,21.3,proglan,"Carnegie Mellon University, Zebina Way, Bellefield, Pittsburgh, Allegheny County, Pennsylvania, 15213, United States",40.444189699999995,-79.94271918393466
+3,ETH Zurich,12,18.0,proglan,"ETH Zürich, 130, Binzmühlestrasse, Oerlikon, Kreis 11, Zürich, Bezirk Zürich, Zürich, 8050, Schweiz/Suisse/Svizzera/Svizra",47.413218,8.5374914
+4,Massachusetts Institute of Technology,14,17.9,proglan,"Massachusetts Institute of Technology, Bishop Allen Drive, Central Square, Cambridgeport, Cambridge, Middlesex County, Massachusetts, 02139, United States",42.3582529,-71.0966272383055
+5,University of Wisconsin - Madison,11,16.3,proglan,"University of Wisconsin-Madison, South Allen Street, Regent, Madison, Dane County, Wisconsin, 53726, United States",43.080274450000005,-89.43095871991434
+6,Cornell University,9,15.6,proglan,"Cornell University, City of Ithaca, Town of Dryden, Tompkins County, New York, 14850, United States",42.4529076,-76.48008423030923
+7,University of Pennsylvania,17,15.2,proglan,"University of Pennsylvania, South 33rd Street, University City, Philadelphia, Pennsylvania, 19104, United States",39.9493382,-75.1896439962691
+8,Univ. of Illinois at Urbana-Champaign,15,13.8,proglan,"Atkins Golf Club at the University of Illinois, 2600, South Stone Creek Boulevard, Mira, Urbana, Champaign County, Illinois, 61802, United States",40.090629199999995,-88.17641799034426
+9,Aarhus University,7,13.1,proglan,"Aarhus Universitet, Victor Albecks Vej, Nobelparken, Aarhus, Aarhus Kommune, Region Midtjylland, 8000, Danmark",56.1670905,10.202617693592895
+10,Purdue University,12,12.3,proglan,"Purdue University, 610, West Lafayette, Tippecanoe County, Indiana, 47907, United States",40.430028,-86.92642114650494
+11,Imperial College London,8,12.2,proglan,"Imperial College London, Exhibition Road, Brompton, Royal Borough of Kensington and Chelsea, London, Greater London, England, SW7 2AZ, United Kingdom",51.4989595,-0.17564069276310426
+12,University of Texas at Austin,8,11.9,proglan,"University of Texas at Austin, 1, Allandale, Austin, Travis County, Texas, 78712, United States",30.2851494,-97.73393515146053
+13,University of Cambridge,8,11.3,proglan,"University of Cambridge, 15, J J Thomson Avenue, Eddington, Cambridge, Cambridgeshire, Cambridgeshire and Peterborough, England, CB3 0FD, United Kingdom",52.210945550000005,0.09200497637871279
+14,University of Utah,9,10.2,proglan,"University of Utah, 201, Presidents Circle, Salt Lake City, Salt Lake County, Utah, 84112, United States",40.762813699999995,-111.83687191368261
+15,Stanford University,9,10.1,proglan,"Stanford University, 408, Panama Mall, Stanford, Santa Clara County, California, 94305, United States",37.431313849999995,-122.16936535498309
+16,University of Toronto,6,9.5,proglan,"University of Toronto, Harbord Street, Harbord Village, University—Rosedale, Old Toronto, Toronto, Golden Horseshoe, Ontario, M5S 1G4, Canada",43.663461999999996,-79.39775966248058
+17,Princeton University,4,9.3,proglan,"Princeton University, Alexander Road, Princeton, Mercer County, New Jersey, 08540, United States",40.33867515,-74.65836549131683
+18,Univ. of California - San Diego,8,9.2,proglan,"University of California, San Diego, 9500, Gilman Drive, San Diego, San Diego County, California, 92093, United States",32.87924375,-117.23112468377349
+19,National University of Singapore,10,9.1,proglan,"National University of Singapore, Clementi Road, Clementi, Southwest, 119246, Singapore",1.2962018,103.77689765953073
+20,University of Washington,9,8.9,proglan,"University of Washington, Yesler Swamp Trail, Seattle, King County, Washington, 98105, United States",47.655622750000006,-122.30272238357196
+21,Nanjing University,10,8.8,proglan,"南京大学(鼓楼校区), 金大路, 湖南路街道, 鼓楼区, 南京市, 江苏省, 210093, 中国",32.0565957,118.77408832807794
+22,University of Edinburgh,15,8.4,proglan,"University of Edinburgh, West Crosscauseway, Pleasance, Southside, City of Edinburgh, Alba / Scotland, EH8 9JW, United Kingdom",55.94407645,-3.1883735563964555
+23,University of Oxford,8,8.3,proglan,"Oxford University Museum of Natural History, Parks Road, Holywell, City Centre, Oxford, Oxfordshire, England, OX1 3PW, United Kingdom",51.75870755,-1.2556684826092037
+24,KAIST,5,8.2,proglan,"카이스트안경, 명동8나길, 충무로1가, 명동, 중구, 서울특별시, 04536, 대한민국",37.5612302,126.9832396
+25,Northeastern University,9,7.9,proglan,"Northeastern University, 360, Huntington Avenue, Fenway / Kenmore, Boston, Suffolk County, Massachusetts, 02115, United States",42.33907025,-71.08783833987422
+26,Univ. of California - Los Angeles,6,7.4,proglan,"University of California, Los Angeles, Bellagio Way, Bel Air, Westwood, Los Angeles, Los Angeles County, California, 90095, United States",34.070877749999994,-118.44685070595054
+27,University of Kent,9,7.1,proglan,"University of Kent, Crab and Winkle Way, Blean, Rough Common, Canterbury, Kent, England, CT2 9DU, United Kingdom",51.295015750000005,1.0673010856199983
+28,Tel Aviv University,5,7.0,proglan,"תל אביב אוניברסיטה, איילון דרום, תל אביב - יפו, אוניברסיטת ת""א, תל אביב-יפו, נפת תל אביב, מחוז תל אביב, 5253527, ישראל",32.1037064,34.8046101
+28,University of Maryland - College Park,6,7.0,proglan,"University of Maryland, College Park, Baltimore Avenue, University Park, Prince George's County, Maryland, 20742, United States",38.990412449999994,-76.9438585924238
+30,Indiana University,5,6.8,proglan,"Indiana University Bloomington, North Eagleson Avenue, Bloomington, Monroe County, Indiana, 47406, United States",39.1802358,-86.50935262731483

@@ -1,0 +1,31 @@
+Rank,University,Faculty Count,Publication Count,field,location,lat,lon
+1,Carnegie Mellon University,28,21.5,the,"Carnegie Mellon University, Zebina Way, Bellefield, Pittsburgh, Allegheny County, Pennsylvania, 15213, United States",40.444189699999995,-79.94271918393466
+2,Univ. of Illinois at Urbana-Champaign,20,17.3,the,"Atkins Golf Club at the University of Illinois, 2600, South Stone Creek Boulevard, Mira, Urbana, Champaign County, Illinois, 61802, United States",40.090629199999995,-88.17641799034426
+3,Univ. of California - Berkeley,22,16.4,the,"University of California, Berkeley, Haste Street, Downtown Berkeley, Berkeley, Alameda County, California, 94703, United States",37.875499649999995,-122.23906851395179
+4,Massachusetts Institute of Technology,24,16.3,the,"Massachusetts Institute of Technology, Bishop Allen Drive, Central Square, Cambridgeport, Cambridge, Middlesex County, Massachusetts, 02139, United States",42.3582529,-71.0966272383055
+5,University of Warsaw,25,14.9,the,"Szkoła Główna Handlowa, 162, Aleja Niepodległości, Osiedle Batorego, Stary Mokotów, Mokotów, Warszawa, województwo mazowieckie, 02-554, Polska",52.209142549999996,21.00948486904928
+6,University of Texas at Austin,15,14.8,the,"University of Texas at Austin, 1, Allandale, Austin, Travis County, Texas, 78712, United States",30.2851494,-97.73393515146053
+7,University of Washington,17,14.6,the,"University of Washington, Yesler Swamp Trail, Seattle, King County, Washington, 98105, United States",47.655622750000006,-122.30272238357196
+8,Tel Aviv University,23,13.9,the,"תל אביב אוניברסיטה, איילון דרום, תל אביב - יפו, אוניברסיטת ת""א, תל אביב-יפו, נפת תל אביב, מחוז תל אביב, 5253527, ישראל",32.1037064,34.8046101
+9,Stanford University,19,13.8,the,"Stanford University, 408, Panama Mall, Stanford, Santa Clara County, California, 94305, United States",37.431313849999995,-122.16936535498309
+10,Max Planck Society,15,13.6,the,"SKA-MPI (Max Planck Society Precursor), Kareeberg Ward 4, Kareeberg Local Municipality, Pixley ka Seme District Municipality, Northern Cape, South Africa",-30.7179881,21.4130525
+11,Cornell University,16,13.3,the,"Cornell University, City of Ithaca, Town of Dryden, Tompkins County, New York, 14850, United States",42.4529076,-76.48008423030923
+12,New York University,18,13.2,the,"New York University, West 8th Street, Washington Square Village, Manhattan Community Board 2, Manhattan, New York County, City of New York, New York, 10011, United States",40.72914525,-73.99507565085935
+13,University of Toronto,15,12.9,the,"University of Toronto, Harbord Street, Harbord Village, University—Rosedale, Old Toronto, Toronto, Golden Horseshoe, Ontario, M5S 1G4, Canada",43.663461999999996,-79.39775966248058
+14,Hebrew University of Jerusalem,21,12.1,the,"האוניברסיטה העברית בירושלים, Reagan Plaza, הר הצופים, ירושלים, נפת ירושלים, מחוז ירושלים, 9711769, ישראל",31.7918555,35.244723
+15,Northeastern University,13,12.0,the,"Northeastern University, 360, Huntington Avenue, Fenway / Kenmore, Boston, Suffolk County, Massachusetts, 02115, United States",42.33907025,-71.08783833987422
+16,Univ. of California - Los Angeles,8,11.6,the,"University of California, Los Angeles, Bellagio Way, Bel Air, Westwood, Los Angeles, Los Angeles County, California, 90095, United States",34.070877749999994,-118.44685070595054
+17,CISPA Helmholtz Center,13,11.5,the,"CISPA – Helmholtz Center for Information Security, Dudweilerstraße, Universität, St. Johann, Bezirk Mitte, Saarbrücken, Regionalverband Saarbrücken, Saarland, 66123, Deutschland",49.2593545,7.050992224567377
+18,IST Austria,9,11.2,the,"IST Austria, 1, Am Campus, Maria Gugging, Gemeinde Klosterneuburg, Bezirk Tulln, Niederösterreich, 3400, Österreich",48.3109736,16.258631088976628
+19,Aarhus University,17,11.1,the,"Aarhus Universitet, Victor Albecks Vej, Nobelparken, Aarhus, Aarhus Kommune, Region Midtjylland, 8000, Danmark",56.1670905,10.202617693592895
+20,ETH Zurich,15,11.0,the,"ETH Zürich, 130, Binzmühlestrasse, Oerlikon, Kreis 11, Zürich, Bezirk Zürich, Zürich, 8050, Schweiz/Suisse/Svizzera/Svizra",47.413218,8.5374914
+21,University of Michigan,17,10.8,the,"University of Michigan, 500, South State Street, Ann Arbor, Washtenaw County, Michigan, 48109, United States",42.2942142,-83.71003893509601
+21,University of Waterloo,22,10.8,the,"University of Waterloo, Wilmot, Region of Waterloo, Ontario, N2L 3G1, Canada",43.4701994,-80.54524293779451
+23,Technion,23,10.4,the,"טכניון, דוד רוז, קרית הטכניון, רובע רמות נווה שאנן, חיפה, נפת חיפה, מחוז חיפה, 3200003, ישראל",32.774576,35.0236399
+23,Univ. of California - San Diego,18,10.4,the,"University of California, San Diego, 9500, Gilman Drive, San Diego, San Diego County, California, 92093, United States",32.87924375,-117.23112468377349
+25,University of Wisconsin - Madison,11,9.6,the,"University of Wisconsin-Madison, South Allen Street, Regent, Madison, Dane County, Wisconsin, 53726, United States",43.080274450000005,-89.43095871991434
+26,Georgia Institute of Technology,14,9.3,the,"Georgia Tech, Ferst Drive Northwest, Atlanta, Fulton County, Georgia, 30332, United States",33.776094799999996,-84.3988076699857
+26,Princeton University,15,9.3,the,"Princeton University, Alexander Road, Princeton, Mercer County, New Jersey, 08540, United States",40.33867515,-74.65836549131683
+28,Weizmann Institute of Science,13,9.2,the,"מכון ויצמן למדע, שדרת בנימין בלוך, מעונות וולפסון, רחובות, נפת רחובות, מחוז המרכז, 7670609, ישראל",31.907849900000002,34.81334092444211
+29,EPFL,15,9.0,the,"École Polytechnique Fédérale de Lausanne, Route Louis-Favre, Ecublens, District de l'Ouest lausannois, Vaud, 1024, Schweiz/Suisse/Svizzera/Svizra",46.518659400000004,6.566561505148001
+30,University of Oxford,23,8.9,the,"Oxford University Museum of Natural History, Parks Road, Holywell, City Centre, Oxford, Oxfordshire, England, OX1 3PW, United Kingdom",51.75870755,-1.2556684826092037

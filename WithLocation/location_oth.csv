@@ -1,0 +1,32 @@
+Rank,University,Faculty Count,Publication Count,field,location,lat,lon
+1,Carnegie Mellon University,97,23.3,oth,"Carnegie Mellon University, Zebina Way, Bellefield, Pittsburgh, Allegheny County, Pennsylvania, 15213, United States",40.444189699999995,-79.94271918393466
+2,University of Maryland - College Park,46,13.9,oth,"University of Maryland, College Park, Baltimore Avenue, University Park, Prince George's County, Maryland, 20742, United States",38.990412449999994,-76.9438585924238
+3,Stanford University,39,13.6,oth,"Stanford University, 408, Panama Mall, Stanford, Santa Clara County, California, 94305, United States",37.431313849999995,-122.16936535498309
+4,University of Toronto,40,13.1,oth,"University of Toronto, Harbord Street, Harbord Village, University—Rosedale, Old Toronto, Toronto, Golden Horseshoe, Ontario, M5S 1G4, Canada",43.663461999999996,-79.39775966248058
+5,Georgia Institute of Technology,65,12.5,oth,"Georgia Tech, Ferst Drive Northwest, Atlanta, Fulton County, Georgia, 30332, United States",33.776094799999996,-84.3988076699857
+6,University of Washington,50,11.7,oth,"University of Washington, Yesler Swamp Trail, Seattle, King County, Washington, 98105, United States",47.655622750000006,-122.30272238357196
+7,Massachusetts Institute of Technology,42,11.5,oth,"Massachusetts Institute of Technology, Bishop Allen Drive, Central Square, Cambridgeport, Cambridge, Middlesex County, Massachusetts, 02139, United States",42.3582529,-71.0966272383055
+8,Tsinghua University,47,10.5,oth,"清华大学, 30, 双清路, 五道口, 清华园街道, 东升镇, 海淀区, 北京市, 100084, 中国",40.002290450000004,116.3209629696906
+9,Univ. of California - San Diego,54,10.3,oth,"University of California, San Diego, 9500, Gilman Drive, San Diego, San Diego County, California, 92093, United States",32.87924375,-117.23112468377349
+10,Cornell University,43,9.6,oth,"Cornell University, City of Ithaca, Town of Dryden, Tompkins County, New York, 14850, United States",42.4529076,-76.48008423030923
+11,Univ. of California - Berkeley,52,8.2,oth,"University of California, Berkeley, Haste Street, Downtown Berkeley, Berkeley, Alameda County, California, 94703, United States",37.875499649999995,-122.23906851395179
+12,ETH Zurich,23,8.1,oth,"ETH Zürich, 130, Binzmühlestrasse, Oerlikon, Kreis 11, Zürich, Bezirk Zürich, Zürich, 8050, Schweiz/Suisse/Svizzera/Svizra",47.413218,8.5374914
+13,Univ. of Illinois at Urbana-Champaign,49,7.6,oth,"Atkins Golf Club at the University of Illinois, 2600, South Stone Creek Boulevard, Mira, Urbana, Champaign County, Illinois, 61802, United States",40.090629199999995,-88.17641799034426
+14,University of Michigan,41,7.2,oth,"University of Michigan, 500, South State Street, Ann Arbor, Washtenaw County, Michigan, 48109, United States",42.2942142,-83.71003893509601
+15,Northeastern University,50,6.9,oth,"Northeastern University, 360, Huntington Avenue, Fenway / Kenmore, Boston, Suffolk County, Massachusetts, 02115, United States",42.33907025,-71.08783833987422
+16,KAIST,43,6.8,oth,"카이스트안경, 명동8나길, 충무로1가, 명동, 중구, 서울특별시, 04536, 대한민국",37.5612302,126.9832396
+17,Princeton University,23,6.6,oth,"Princeton University, Alexander Road, Princeton, Mercer County, New Jersey, 08540, United States",40.33867515,-74.65836549131683
+18,Peking University,40,6.4,oth,"北京大学, 5号, 颐和园路, 燕园街道, 海淀镇, 海淀区, 北京市, 100871, 中国",39.99171495,116.30393496863539
+18,University College London,28,6.4,oth,"University College London, Euston Road, St Pancras, London Borough of Camden, London, Greater London, England, NW1 2BH, United Kingdom",51.52420305,-0.13300072425929543
+20,Columbia University,17,6.1,oth,"Columbia University, West 120th Street, Manhattan Community Board 9, Manhattan, New York County, City of New York, New York, 10027, United States",40.80775585,-73.96164946987652
+20,TU Munich,30,6.1,oth,"Technische Universität München, Via Apostolescu, Hochschul- und Forschungszentrum, Garching bei München, Landkreis München, Bayern, 85748, Deutschland",48.2655696,11.669345610437997
+20,University of Pennsylvania,38,6.1,oth,"University of Pennsylvania, South 33rd Street, University City, Philadelphia, Pennsylvania, 19104, United States",39.9493382,-75.1896439962691
+23,University of Utah,29,5.9,oth,"University of Utah, 201, Presidents Circle, Salt Lake City, Salt Lake County, Utah, 84112, United States",40.762813699999995,-111.83687191368261
+23,University of Waterloo,21,5.9,oth,"University of Waterloo, Wilmot, Region of Waterloo, Ontario, N2L 3G1, Canada",43.4701994,-80.54524293779451
+25,Simon Fraser University,26,5.8,oth,"Simon Fraser University, 8888, University Drive East, UniverCity, Burnaby, Metro Vancouver Regional District, British Columbia, V5A 1S6, Canada",49.276709600000004,-122.91780296438841
+25,Zhejiang University,44,5.8,oth,"浙江大学（海宁校区）, 718号, 海州东路, 鹃湖科技城, 硖石街道, 海宁市, 嘉兴市, 浙江省, 314400, 中国",30.521595,120.7195312
+27,George Mason University,24,5.7,oth,"George Mason University, 4400, University Drive, Fairfax County, Virginia, 22030, United States",38.83133325,-77.30798838879116
+28,University of British Columbia,24,5.6,oth,"University of British Columbia, Electoral Area A, Metro Vancouver Regional District, British Columbia, Canada",49.25783145,-123.24624198622213
+29,New York University,23,5.5,oth,"New York University, West 8th Street, Washington Square Village, Manhattan Community Board 2, Manhattan, New York County, City of New York, New York, 10011, United States",40.72914525,-73.99507565085935
+29,Purdue University,30,5.5,oth,"Purdue University, 610, West Lafayette, Tippecanoe County, Indiana, 47907, United States",40.430028,-86.92642114650494
+29,University of Tokyo,24,5.5,oth,"東京大学本郷キャンパス, 1, 本郷七丁目, 文京区, 東京都, 113-8654, 日本",35.71171565,139.76374569517452

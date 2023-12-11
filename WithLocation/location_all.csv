@@ -1,0 +1,31 @@
+Rank,University,Faculty Count,Publication Count,field,location,lat,lon
+1,Carnegie Mellon University,174,20.6,all,"Carnegie Mellon University, Zebina Way, Bellefield, Pittsburgh, Allegheny County, Pennsylvania, 15213, United States",40.444189699999995,-79.94271918393466
+2,Univ. of Illinois at Urbana-Champaign,113,14.7,all,"Atkins Golf Club at the University of Illinois, 2600, South Stone Creek Boulevard, Mira, Urbana, Champaign County, Illinois, 61802, United States",40.090629199999995,-88.17641799034426
+3,Univ. of California - San Diego,130,13.1,all,"University of California, San Diego, 9500, Gilman Drive, San Diego, San Diego County, California, 92093, United States",32.87924375,-117.23112468377349
+4,Tsinghua University,135,12.5,all,"清华大学, 30, 双清路, 五道口, 清华园街道, 东升镇, 海淀区, 北京市, 100084, 中国",40.002290450000004,116.3209629696906
+5,Georgia Institute of Technology,145,11.6,all,"Georgia Tech, Ferst Drive Northwest, Atlanta, Fulton County, Georgia, 30332, United States",33.776094799999996,-84.3988076699857
+6,Massachusetts Institute of Technology,96,11.5,all,"Massachusetts Institute of Technology, Bishop Allen Drive, Central Square, Cambridgeport, Cambridge, Middlesex County, Massachusetts, 02139, United States",42.3582529,-71.0966272383055
+7,Univ. of California - Berkeley,95,10.9,all,"University of California, Berkeley, Haste Street, Downtown Berkeley, Berkeley, Alameda County, California, 94703, United States",37.875499649999995,-122.23906851395179
+8,University of Michigan,102,10.8,all,"University of Michigan, 500, South State Street, Ann Arbor, Washtenaw County, Michigan, 48109, United States",42.2942142,-83.71003893509601
+9,ETH Zurich,47,10.7,all,"ETH Zürich, 130, Binzmühlestrasse, Oerlikon, Kreis 11, Zürich, Bezirk Zürich, Zürich, 8050, Schweiz/Suisse/Svizzera/Svizra",47.413218,8.5374914
+10,University of Washington,82,10.6,all,"University of Washington, Yesler Swamp Trail, Seattle, King County, Washington, 98105, United States",47.655622750000006,-122.30272238357196
+11,Stanford University,68,10.4,all,"Stanford University, 408, Panama Mall, Stanford, Santa Clara County, California, 94305, United States",37.431313849999995,-122.16936535498309
+12,Cornell University,84,9.9,all,"Cornell University, City of Ithaca, Town of Dryden, Tompkins County, New York, 14850, United States",42.4529076,-76.48008423030923
+13,University of Maryland - College Park,89,9.1,all,"University of Maryland, College Park, Baltimore Avenue, University Park, Prince George's County, Maryland, 20742, United States",38.990412449999994,-76.9438585924238
+14,Peking University,135,8.9,all,"北京大学, 5号, 颐和园路, 燕园街道, 海淀镇, 海淀区, 北京市, 100871, 中国",39.99171495,116.30393496863539
+15,University of Toronto,101,8.7,all,"University of Toronto, Harbord Street, Harbord Village, University—Rosedale, Old Toronto, Toronto, Golden Horseshoe, Ontario, M5S 1G4, Canada",43.663461999999996,-79.39775966248058
+16,National University of Singapore,78,8.3,all,"National University of Singapore, Clementi Road, Clementi, Southwest, 119246, Singapore",1.2962018,103.77689765953073
+16,Northeastern University,87,8.3,all,"Northeastern University, 360, Huntington Avenue, Fenway / Kenmore, Boston, Suffolk County, Massachusetts, 02115, United States",42.33907025,-71.08783833987422
+18,Shanghai Jiao Tong University,156,8.2,all,"上海交通大学（徐汇校区）, 康平路, 天平路街道, 徐汇区, 上海市, 200030, 中国",31.200891149999997,121.4283949471511
+19,KAIST,96,7.5,all,"카이스트안경, 명동8나길, 충무로1가, 명동, 중구, 서울특별시, 04536, 대한민국",37.5612302,126.9832396
+19,University of Wisconsin - Madison,72,7.5,all,"University of Wisconsin-Madison, South Allen Street, Regent, Madison, Dane County, Wisconsin, 53726, United States",43.080274450000005,-89.43095871991434
+21,Purdue University,74,7.4,all,"Purdue University, 610, West Lafayette, Tippecanoe County, Indiana, 47907, United States",40.430028,-86.92642114650494
+21,University of Texas at Austin,50,7.4,all,"University of Texas at Austin, 1, Allandale, Austin, Travis County, Texas, 78712, United States",30.2851494,-97.73393515146053
+23,University of Pennsylvania,74,7.2,all,"University of Pennsylvania, South 33rd Street, University City, Philadelphia, Pennsylvania, 19104, United States",39.9493382,-75.1896439962691
+24,Columbia University,59,7.1,all,"Columbia University, West 120th Street, Manhattan Community Board 9, Manhattan, New York County, City of New York, New York, 10027, United States",40.80775585,-73.96164946987652
+25,University of Waterloo,97,7.0,all,"University of Waterloo, Wilmot, Region of Waterloo, Ontario, N2L 3G1, Canada",43.4701994,-80.54524293779451
+26,Princeton University,59,6.7,all,"Princeton University, Alexander Road, Princeton, Mercer County, New Jersey, 08540, United States",40.33867515,-74.65836549131683
+27,Max Planck Society,41,6.6,all,"SKA-MPI (Max Planck Society Precursor), Kareeberg Ward 4, Kareeberg Local Municipality, Pixley ka Seme District Municipality, Northern Cape, South Africa",-30.7179881,21.4130525
+28,New York University,72,6.5,all,"New York University, West 8th Street, Washington Square Village, Manhattan Community Board 2, Manhattan, New York County, City of New York, New York, 10011, United States",40.72914525,-73.99507565085935
+29,EPFL,62,6.3,all,"École Polytechnique Fédérale de Lausanne, Route Louis-Favre, Ecublens, District de l'Ouest lausannois, Vaud, 1024, Schweiz/Suisse/Svizzera/Svizra",46.518659400000004,6.566561505148001
+30,University of Massachusetts Amherst,62,6.0,all,"University of Massachusetts Amherst, North Hadley Road, Hadley, Hampshire County, Massachusetts, 01003, United States",42.3869382,-72.52991477067445

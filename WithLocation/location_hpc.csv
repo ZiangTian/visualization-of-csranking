@@ -1,0 +1,32 @@
+Rank,University,Faculty Count,Publication Count,field,location,lat,lon
+1,ETH Zurich,5,20.4,hpc,"ETH Zürich, 130, Binzmühlestrasse, Oerlikon, Kreis 11, Zürich, Bezirk Zürich, Zürich, 8050, Schweiz/Suisse/Svizzera/Svizra",47.413218,8.5374914
+2,Univ. of Illinois at Urbana-Champaign,18,16.5,hpc,"Atkins Golf Club at the University of Illinois, 2600, South Stone Creek Boulevard, Mira, Urbana, Champaign County, Illinois, 61802, United States",40.090629199999995,-88.17641799034426
+3,North Carolina State University,10,15.5,hpc,"North Carolina State University (Centennial Campus), Oval Drive, Raleigh, Wake County, North Carolina, 27695, United States",35.7714749,-78.6741935
+4,University of Utah,13,14.9,hpc,"University of Utah, 201, Presidents Circle, Salt Lake City, Salt Lake County, Utah, 84112, United States",40.762813699999995,-111.83687191368261
+5,Georgia Institute of Technology,15,13.4,hpc,"Georgia Tech, Ferst Drive Northwest, Atlanta, Fulton County, Georgia, 30332, United States",33.776094799999996,-84.3988076699857
+6,Ohio State University,12,10.8,hpc,"The Ohio State University at Mansfield, 1760, University Drive, Mansfield, Richland County, Ohio, 44906, United States",40.7988105,-82.5782294
+7,Univ. of California - Riverside,10,10.6,hpc,"University of California, Riverside, 900, University Avenue, Riverside, Riverside County, California, 92521, United States",33.9642567,-117.3397858271953
+8,Shanghai Jiao Tong University,19,10.1,hpc,"上海交通大学（徐汇校区）, 康平路, 天平路街道, 徐汇区, 上海市, 200030, 中国",31.200891149999997,121.4283949471511
+9,Tsinghua University,8,9.3,hpc,"清华大学, 30, 双清路, 五道口, 清华园街道, 东升镇, 海淀区, 北京市, 100084, 中国",40.002290450000004,116.3209629696906
+10,Univ. of California - Merced,4,8.9,hpc,"University of California, Merced, 5200, Lake Road, Merced County, California, 95343, United States",37.36513585,-120.42253889071495
+11,HUST,12,8.7,hpc,"Хуст, Хустська міська громада, Хустський район, Закарпатська область, Україна",48.1764917,23.291166
+12,National Cheng Kung University,13,8.5,hpc,"國立成功大學, 1, 大學路, 大學里, 東區, 臺南市, 70101, 臺灣",22.9991916,120.21624663043474
+13,Rice University,2,8.4,hpc,"Rice University, 6100, Main Street, Museum District, Houston, Harris County, Texas, 77005, United States",29.716791450000002,-95.40478113393792
+14,University of Chicago,7,8.3,hpc,"The University of Chicago, 5801, South Ellis Avenue, Hyde Park, Chicago, Hyde Park Township, Cook County, Illinois, 60637, United States",41.79139685,-87.60084387193544
+15,Northeastern University,4,8.0,hpc,"Northeastern University, 360, Huntington Avenue, Fenway / Kenmore, Boston, Suffolk County, Massachusetts, 02115, United States",42.33907025,-71.08783833987422
+16,Purdue University,7,7.7,hpc,"Purdue University, 610, West Lafayette, Tippecanoe County, Indiana, 47907, United States",40.430028,-86.92642114650494
+17,University of Texas at Arlington,7,6.9,hpc,"University of Texas at Arlington, 701, South Nedderman Drive, Arlington, Tarrant County, Texas, 76013, United States",32.728471299999995,-97.11202127009975
+18,TU Munich,5,6.8,hpc,"Technische Universität München, Via Apostolescu, Hochschul- und Forschungszentrum, Garching bei München, Landkreis München, Bayern, 85748, Deutschland",48.2655696,11.669345610437997
+19,Indiana University,6,6.6,hpc,"Indiana University Bloomington, North Eagleson Avenue, Bloomington, Monroe County, Indiana, 47406, United States",39.1802358,-86.50935262731483
+20,Virginia Tech,5,6.5,hpc,"Virginia Polytechnic Institute and State University, 800, Drillfield Drive, Blacksburg, Montgomery County, Virginia, 24061, United States",37.22192675,-80.42728184013652
+21,National University of Singapore,5,6.3,hpc,"National University of Singapore, Clementi Road, Clementi, Southwest, 119246, Singapore",1.2962018,103.77689765953073
+22,Illinois Institute of Technology,4,6.0,hpc,"Illinois Institute of Technology, South Wabash Avenue, Bronzeville, Douglas, Chicago, Cook County, Illinois, 60616, United States",41.83616405,-87.62647227745128
+22,Polytechnic University of Catalonia,5,6.0,hpc,,41.3893,2.1157
+24,University of Minnesota,7,5.9,hpc,"University Of Minnesota, 14475, Cameo Avenue, Rosemount, Dakota County, Minnesota, 55068, United States",44.739628749999994,-93.12845084268471
+25,University of Georgia,4,5.8,hpc,"University of Georgia, Athens-Clarke County Unified Government, Athens-Clarke County, Georgia, United States",33.9404278,-83.37304904988295
+26,National Chiao Tung University,12,5.6,hpc,"陽明交大新竹光復校區, 1001, 大學路, 光明里, 東區, 新竹市, 30010, 臺灣",24.78676765,120.99724411680712
+27,Univ. of California - Berkeley,5,5.3,hpc,"University of California, Berkeley, Haste Street, Downtown Berkeley, Berkeley, Alameda County, California, 94703, United States",37.875499649999995,-122.23906851395179
+28,University of Maryland - College Park,2,5.2,hpc,"University of Maryland, College Park, Baltimore Avenue, University Park, Prince George's County, Maryland, 20742, United States",38.990412449999994,-76.9438585924238
+29,Northwestern University,6,4.9,hpc,"Northwestern University, 633, Clark Street, Downtown, Evanston, Evanston Township, Cook County, Illinois, 60208, United States",42.0557157,-87.67529454739416
+29,University of Massachusetts Amherst,5,4.9,hpc,"University of Massachusetts Amherst, North Hadley Road, Hadley, Hampshire County, Massachusetts, 01003, United States",42.3869382,-72.52991477067445
+29,University of Tennessee,2,4.9,hpc,"University of Tennessee, Knoxville, Knox County, East Tennessee, Tennessee, United States",35.9515612,-83.93087998929315

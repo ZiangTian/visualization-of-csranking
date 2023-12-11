@@ -1,0 +1,33 @@
+Rank,University,Faculty Count,Publication Count,field,location,lat,lon
+1,Massachusetts Institute of Technology,15,17.2,os,"Massachusetts Institute of Technology, Bishop Allen Drive, Central Square, Cambridgeport, Cambridge, Middlesex County, Massachusetts, 02139, United States",42.3582529,-71.0966272383055
+2,Shanghai Jiao Tong University,15,12.5,os,"上海交通大学（徐汇校区）, 康平路, 天平路街道, 徐汇区, 上海市, 200030, 中国",31.200891149999997,121.4283949471511
+3,Univ. of California - Berkeley,14,11.5,os,"University of California, Berkeley, Haste Street, Downtown Berkeley, Berkeley, Alameda County, California, 94703, United States",37.875499649999995,-122.23906851395179
+4,Carnegie Mellon University,19,10.2,os,"Carnegie Mellon University, Zebina Way, Bellefield, Pittsburgh, Allegheny County, Pennsylvania, 15213, United States",40.444189699999995,-79.94271918393466
+5,University of Wisconsin - Madison,8,9.1,os,"University of Wisconsin-Madison, South Allen Street, Regent, Madison, Dane County, Wisconsin, 53726, United States",43.080274450000005,-89.43095871991434
+6,University of Washington,8,8.0,os,"University of Washington, Yesler Swamp Trail, Seattle, King County, Washington, 98105, United States",47.655622750000006,-122.30272238357196
+7,Columbia University,9,7.9,os,"Columbia University, West 120th Street, Manhattan Community Board 9, Manhattan, New York County, City of New York, New York, 10027, United States",40.80775585,-73.96164946987652
+8,University of Texas at Austin,7,7.3,os,"University of Texas at Austin, 1, Allandale, Austin, Travis County, Texas, 78712, United States",30.2851494,-97.73393515146053
+9,EPFL,7,7.1,os,"École Polytechnique Fédérale de Lausanne, Route Louis-Favre, Ecublens, District de l'Ouest lausannois, Vaud, 1024, Schweiz/Suisse/Svizzera/Svizra",46.518659400000004,6.566561505148001
+10,University of Michigan,7,6.7,os,"University of Michigan, 500, South State Street, Ann Arbor, Washtenaw County, Michigan, 48109, United States",42.2942142,-83.71003893509601
+11,University of Toronto,9,6.6,os,"University of Toronto, Harbord Street, Harbord Village, University—Rosedale, Old Toronto, Toronto, Golden Horseshoe, Ontario, M5S 1G4, Canada",43.663461999999996,-79.39775966248058
+12,Tsinghua University,11,6.2,os,"清华大学, 30, 双清路, 五道口, 清华园街道, 东升镇, 海淀区, 北京市, 100084, 中国",40.002290450000004,116.3209629696906
+13,ETH Zurich,7,5.5,os,"ETH Zürich, 130, Binzmühlestrasse, Oerlikon, Kreis 11, Zürich, Bezirk Zürich, Zürich, 8050, Schweiz/Suisse/Svizzera/Svizra",47.413218,8.5374914
+14,New York University,5,5.3,os,"New York University, West 8th Street, Washington Square Village, Manhattan Community Board 2, Manhattan, New York County, City of New York, New York, 10011, United States",40.72914525,-73.99507565085935
+14,University of Pennsylvania,7,5.3,os,"University of Pennsylvania, South 33rd Street, University City, Philadelphia, Pennsylvania, 19104, United States",39.9493382,-75.1896439962691
+16,Univ. of Illinois at Urbana-Champaign,8,4.9,os,"Atkins Golf Club at the University of Illinois, 2600, South Stone Creek Boulevard, Mira, Urbana, Champaign County, Illinois, 61802, United States",40.090629199999995,-88.17641799034426
+17,Georgia Institute of Technology,5,4.8,os,"Georgia Tech, Ferst Drive Northwest, Atlanta, Fulton County, Georgia, 30332, United States",33.776094799999996,-84.3988076699857
+18,Univ. of California - San Diego,12,4.7,os,"University of California, San Diego, 9500, Gilman Drive, San Diego, San Diego County, California, 92093, United States",32.87924375,-117.23112468377349
+18,University of Chicago,5,4.7,os,"The University of Chicago, 5801, South Ellis Avenue, Hyde Park, Chicago, Hyde Park Township, Cook County, Illinois, 60637, United States",41.79139685,-87.60084387193544
+20,Cornell University,7,4.3,os,"Cornell University, City of Ithaca, Town of Dryden, Tompkins County, New York, 14850, United States",42.4529076,-76.48008423030923
+20,Princeton University,3,4.3,os,"Princeton University, Alexander Road, Princeton, Mercer County, New Jersey, 08540, United States",40.33867515,-74.65836549131683
+22,Stanford University,6,4.2,os,"Stanford University, 408, Panama Mall, Stanford, Santa Clara County, California, 94305, United States",37.431313849999995,-122.16936535498309
+23,Purdue University,7,4.1,os,"Purdue University, 610, West Lafayette, Tippecanoe County, Indiana, 47907, United States",40.430028,-86.92642114650494
+24,Pennsylvania State University,8,3.7,os,"Touro College, 320, West 31st Street, Manhattan Community Board 4, Manhattan, New York County, City of New York, New York, 10001, United States",40.7505364,-73.995675
+25,Peking University,4,3.5,os,"北京大学, 5号, 颐和园路, 燕园街道, 海淀镇, 海淀区, 北京市, 100871, 中国",39.99171495,116.30393496863539
+26,Stony Brook University,4,3.3,os,"Stony Brook University, Town of Brookhaven, Suffolk County, New York, 11794, United States",40.9098832,-73.1215495
+27,Imperial College London,4,3.1,os,"Imperial College London, Exhibition Road, Brompton, Royal Borough of Kensington and Chelsea, London, Greater London, England, SW7 2AZ, United Kingdom",51.4989595,-0.17564069276310426
+28,Univ. of California - Los Angeles,5,3.0,os,"University of California, Los Angeles, Bellagio Way, Bel Air, Westwood, Los Angeles, Los Angeles County, California, 90095, United States",34.070877749999994,-118.44685070595054
+29,Harvard University,4,2.9,os,"Harvard University, Western Avenue, Barry's Corner, Allston, Boston, Suffolk County, Massachusetts, 02163, United States",42.36790855,-71.12678237443698
+30,Max Planck Society,6,2.8,os,"SKA-MPI (Max Planck Society Precursor), Kareeberg Ward 4, Kareeberg Local Municipality, Pixley ka Seme District Municipality, Northern Cape, South Africa",-30.7179881,21.4130525
+30,National University of Singapore,2,2.8,os,"National University of Singapore, Clementi Road, Clementi, Southwest, 119246, Singapore",1.2962018,103.77689765953073
+30,University of Waterloo,4,2.8,os,"University of Waterloo, Wilmot, Region of Waterloo, Ontario, N2L 3G1, Canada",43.4701994,-80.54524293779451

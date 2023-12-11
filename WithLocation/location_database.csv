@@ -1,0 +1,31 @@
+Rank,University,Faculty Count,Publication Count,field,location,lat,lon
+1,HKUST,16,42.9,database,"香港科技大學 HKUST, 大學道 University Road, 碧水新村 Pik Shui San Tsuen, 大埔仔 Tai Po Tsai, 西貢區 Sai Kung District, 新界 New Territories, 香港 Hong Kong, 中国",22.3387645,114.2619042
+2,National University of Singapore,20,40.1,database,"National University of Singapore, Clementi Road, Clementi, Southwest, 119246, Singapore",1.2962018,103.77689765953073
+3,Tsinghua University,25,39.8,database,"清华大学, 30, 双清路, 五道口, 清华园街道, 东升镇, 海淀区, 北京市, 100084, 中国",40.002290450000004,116.3209629696906
+4,Chinese University of Hong Kong,11,37.5,database,"香港中文大學 Chinese University of Hong Kong, 車站路 Station Road, 馬料水 Ma Liu Shui, 九肚 Kau To, 沙田區 Sha Tin District, 新界 New Territories, 香港 Hong Kong, 中国",22.4140914,114.2100208
+5,TU Munich,8,36.7,database,"Technische Universität München, Via Apostolescu, Hochschul- und Forschungszentrum, Garching bei München, Landkreis München, Bayern, 85748, Deutschland",48.2655696,11.669345610437997
+6,University of Waterloo,21,30.9,database,"University of Waterloo, Wilmot, Region of Waterloo, Ontario, N2L 3G1, Canada",43.4701994,-80.54524293779451
+7,Univ. of California - Berkeley,19,26.8,database,"University of California, Berkeley, Haste Street, Downtown Berkeley, Berkeley, Alameda County, California, 94703, United States",37.875499649999995,-122.23906851395179
+8,University of Chicago,13,25.2,database,"The University of Chicago, 5801, South Ellis Avenue, Hyde Park, Chicago, Hyde Park Township, Cook County, Illinois, 60637, United States",41.79139685,-87.60084387193544
+9,Nanyang Technological University,13,23.8,database,"Nanyang Technological University, 50, Nanyang Avenue, Western Water Catchment, Singapore, Southwest, 639798, Singapore",1.3484104000000001,103.68293320728537
+10,UNSW,5,23.7,database,"University of New South Wales, Anzac Parade, Kensington, Eastern Suburbs, Sydney, Randwick City Council, New South Wales, 2033, Australia",-33.91701725,151.2251677447594
+11,Carnegie Mellon University,22,23.4,database,"Carnegie Mellon University, Zebina Way, Bellefield, Pittsburgh, Allegheny County, Pennsylvania, 15213, United States",40.444189699999995,-79.94271918393466
+12,Duke University,12,23.0,database,"Duke University, Cameron Boulevard, Durham, Durham County, North Carolina, 27708, United States",36.00015569999999,-78.94422972195878
+12,Peking University,13,23.0,database,"北京大学, 5号, 颐和园路, 燕园街道, 海淀镇, 海淀区, 北京市, 100871, 中国",39.99171495,116.30393496863539
+14,Zhejiang University,23,22.1,database,"浙江大学（海宁校区）, 718号, 海州东路, 鹃湖科技城, 硖石街道, 海宁市, 嘉兴市, 浙江省, 314400, 中国",30.521595,120.7195312
+15,University of Edinburgh,12,20.8,database,"University of Edinburgh, West Crosscauseway, Pleasance, Southside, City of Edinburgh, Alba / Scotland, EH8 9JW, United Kingdom",55.94407645,-3.1883735563964555
+16,EPFL,11,20.3,database,"École Polytechnique Fédérale de Lausanne, Route Louis-Favre, Ecublens, District de l'Ouest lausannois, Vaud, 1024, Schweiz/Suisse/Svizzera/Svizra",46.518659400000004,6.566561505148001
+17,Massachusetts Institute of Technology,16,20.1,database,"Massachusetts Institute of Technology, Bishop Allen Drive, Central Square, Cambridgeport, Cambridge, Middlesex County, Massachusetts, 02139, United States",42.3582529,-71.0966272383055
+18,Univ. of California - San Diego,15,18.2,database,"University of California, San Diego, 9500, Gilman Drive, San Diego, San Diego County, California, 92093, United States",32.87924375,-117.23112468377349
+19,Cornell University,9,17.8,database,"Cornell University, City of Ithaca, Town of Dryden, Tompkins County, New York, 14850, United States",42.4529076,-76.48008423030923
+20,Aalborg University,9,17.6,database,"Aalborg Universitet, Alfred Nobels Vej, Sønder Tranders, Aalborg, Aalborg Kommune, Region Nordjylland, 9220, Danmark",57.015907049999996,9.975308243557345
+21,University of Michigan,13,17.4,database,"University of Michigan, 500, South State Street, Ann Arbor, Washtenaw County, Michigan, 48109, United States",42.2942142,-83.71003893509601
+22,University of Technology Sydney,6,16.4,database,"University of Technology Sydney, Blackfriars Street, Chippendale, Sydney, Council of the City of Sydney, New South Wales, 2008, Australia",-33.88325365,151.20032937174193
+23,Georgia Institute of Technology,19,15.2,database,"Georgia Tech, Ferst Drive Northwest, Atlanta, Fulton County, Georgia, 30332, United States",33.776094799999996,-84.3988076699857
+24,Renmin University of China,13,15.1,database,"中国人民大学, 万泉河路, 万泉庄北社区, 海淀街道, 海淀镇, 海淀区, 北京市, 100872, 中国",39.96976785,116.30709330596794
+25,University of Washington,6,15.0,database,"University of Washington, Yesler Swamp Trail, Seattle, King County, Washington, 98105, United States",47.655622750000006,-122.30272238357196
+26,Univ. of California - Santa Barbara,9,14.9,database,"University of California, Santa Barbara, 552, Sierra Madre Court, Isla Vista, Santa Barbara County, California, 93106, United States",34.414602450000004,-119.84581004701371
+27,University of Wisconsin - Madison,13,14.6,database,"University of Wisconsin-Madison, South Allen Street, Regent, Madison, Dane County, Wisconsin, 53726, United States",43.080274450000005,-89.43095871991434
+28,Hong Kong Baptist University,5,14.5,database,"香港浸會大學 Hong Kong Baptist University, 聯福道 Renfrew Road, 九龍仔 Kowloon Tsai, 九龍城區 Kowloon City District, 九龍 Kowloon, 香港 Hong Kong, 000000, 中国",22.33798795,114.18262590878285
+29,Univ. of California - Irvine,7,14.4,database,"University of California, Irvine, San Antonio, Newport Beach, Orange County, California, 92669, United States",33.64314015,-117.8401967439739
+30,Hasso Plattner Institute,4,14.0,database,"Hasso-Plattner-Institut, 2-3, Prof.-Dr.-Helmert-Straße, Babelsberg Süd, Babelsberg, Potsdam, Brandenburg, 14482, Deutschland",52.3933919,13.13156397679563

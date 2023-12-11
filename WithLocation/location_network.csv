@@ -1,0 +1,31 @@
+Rank,University,Faculty Count,Publication Count,field,location,lat,lon
+1,Massachusetts Institute of Technology,15,26.5,network,"Massachusetts Institute of Technology, Bishop Allen Drive, Central Square, Cambridgeport, Cambridge, Middlesex County, Massachusetts, 02139, United States",42.3582529,-71.0966272383055
+2,Univ. of California - Berkeley,16,21.7,network,"University of California, Berkeley, Haste Street, Downtown Berkeley, Berkeley, Alameda County, California, 94703, United States",37.875499649999995,-122.23906851395179
+3,Carnegie Mellon University,16,20.3,network,"Carnegie Mellon University, Zebina Way, Bellefield, Pittsburgh, Allegheny County, Pennsylvania, 15213, United States",40.444189699999995,-79.94271918393466
+4,Princeton University,13,20.0,network,"Princeton University, Alexander Road, Princeton, Mercer County, New Jersey, 08540, United States",40.33867515,-74.65836549131683
+5,University of Washington,8,18.9,network,"University of Washington, Yesler Swamp Trail, Seattle, King County, Washington, 98105, United States",47.655622750000006,-122.30272238357196
+6,Stanford University,12,14.8,network,"Stanford University, 408, Panama Mall, Stanford, Santa Clara County, California, 94305, United States",37.431313849999995,-122.16936535498309
+7,Univ. of California - San Diego,15,13.8,network,"University of California, San Diego, 9500, Gilman Drive, San Diego, San Diego County, California, 92093, United States",32.87924375,-117.23112468377349
+8,Univ. of Illinois at Urbana-Champaign,13,12.3,network,"Atkins Golf Club at the University of Illinois, 2600, South Stone Creek Boulevard, Mira, Urbana, Champaign County, Illinois, 61802, United States",40.090629199999995,-88.17641799034426
+9,University of Southern California,7,10.6,network,"University of Southern California, Flower Street, Historic South-Central, Los Angeles, Los Angeles County, California, 90007, United States",34.0218833,-118.28586662125
+10,Cornell University,13,10.3,network,"Cornell University, City of Ithaca, Town of Dryden, Tompkins County, New York, 14850, United States",42.4529076,-76.48008423030923
+11,Peking University,11,10.2,network,"北京大学, 5号, 颐和园路, 燕园街道, 海淀镇, 海淀区, 北京市, 100871, 中国",39.99171495,116.30393496863539
+11,University of Texas at Austin,8,10.2,network,"University of Texas at Austin, 1, Allandale, Austin, Travis County, Texas, 78712, United States",30.2851494,-97.73393515146053
+13,Univ. of California - Los Angeles,8,9.3,network,"University of California, Los Angeles, Bellagio Way, Bel Air, Westwood, Los Angeles, Los Angeles County, California, 90095, United States",34.070877749999994,-118.44685070595054
+14,Tsinghua University,23,9.1,network,"清华大学, 30, 双清路, 五道口, 清华园街道, 东升镇, 海淀区, 北京市, 100084, 中国",40.002290450000004,116.3209629696906
+15,ETH Zurich,10,8.8,network,"ETH Zürich, 130, Binzmühlestrasse, Oerlikon, Kreis 11, Zürich, Bezirk Zürich, Zürich, 8050, Schweiz/Suisse/Svizzera/Svizra",47.413218,8.5374914
+16,Harvard University,4,8.7,network,"Harvard University, Western Avenue, Barry's Corner, Allston, Boston, Suffolk County, Massachusetts, 02163, United States",42.36790855,-71.12678237443698
+17,University of Michigan,9,7.8,network,"University of Michigan, 500, South State Street, Ann Arbor, Washtenaw County, Michigan, 48109, United States",42.2942142,-83.71003893509601
+18,EPFL,5,7.7,network,"École Polytechnique Fédérale de Lausanne, Route Louis-Favre, Ecublens, District de l'Ouest lausannois, Vaud, 1024, Schweiz/Suisse/Svizzera/Svizra",46.518659400000004,6.566561505148001
+19,University of Pennsylvania,8,7.6,network,"University of Pennsylvania, South 33rd Street, University City, Philadelphia, Pennsylvania, 19104, United States",39.9493382,-75.1896439962691
+20,University of Massachusetts Amherst,11,7.2,network,"University of Massachusetts Amherst, North Hadley Road, Hadley, Hampshire County, Massachusetts, 01003, United States",42.3869382,-72.52991477067445
+21,New York University,5,6.8,network,"New York University, West 8th Street, Washington Square Village, Manhattan Community Board 2, Manhattan, New York County, City of New York, New York, 10011, United States",40.72914525,-73.99507565085935
+21,University of Chicago,8,6.8,network,"The University of Chicago, 5801, South Ellis Avenue, Hyde Park, Chicago, Hyde Park Township, Cook County, Illinois, 60637, United States",41.79139685,-87.60084387193544
+23,University of Maryland - College Park,5,6.7,network,"University of Maryland, College Park, Baltimore Avenue, University Park, Prince George's County, Maryland, 20742, United States",38.990412449999994,-76.9438585924238
+24,KAIST,5,5.6,network,"카이스트안경, 명동8나길, 충무로1가, 명동, 중구, 서울특별시, 04536, 대한민국",37.5612302,126.9832396
+24,Rice University,4,5.6,network,"Rice University, 6100, Main Street, Museum District, Houston, Harris County, Texas, 77005, United States",29.716791450000002,-95.40478113393792
+26,University College London,4,5.5,network,"University College London, Euston Road, St Pancras, London Borough of Camden, London, Greater London, England, NW1 2BH, United Kingdom",51.52420305,-0.13300072425929543
+27,University of Wisconsin - Madison,8,5.4,network,"University of Wisconsin-Madison, South Allen Street, Regent, Madison, Dane County, Wisconsin, 53726, United States",43.080274450000005,-89.43095871991434
+28,University of Waterloo,7,5.1,network,"University of Waterloo, Wilmot, Region of Waterloo, Ontario, N2L 3G1, Canada",43.4701994,-80.54524293779451
+28,Yale University,7,5.1,network,"Yale University, West Haven, South Central Connecticut Planning Region, Connecticut, 06516, United States",41.25713055,-72.98966960152231
+30,Technion,11,5.0,network,"טכניון, דוד רוז, קרית הטכניון, רובע רמות נווה שאנן, חיפה, נפת חיפה, מחוז חיפה, 3200003, ישראל",32.774576,35.0236399

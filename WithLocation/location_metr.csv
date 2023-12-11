@@ -1,0 +1,31 @@
+Rank,University,Faculty Count,Publication Count,field,location,lat,lon
+1,Northeastern University,8,15.0,metr,"Northeastern University, 360, Huntington Avenue, Fenway / Kenmore, Boston, Suffolk County, Massachusetts, 02115, United States",42.33907025,-71.08783833987422
+2,Univ. of California - San Diego,9,13.3,metr,"University of California, San Diego, 9500, Gilman Drive, San Diego, San Diego County, California, 92093, United States",32.87924375,-117.23112468377349
+3,Georgia Institute of Technology,17,12.0,metr,"Georgia Tech, Ferst Drive Northwest, Atlanta, Fulton County, Georgia, 30332, United States",33.776094799999996,-84.3988076699857
+4,Carnegie Mellon University,12,9.8,metr,"Carnegie Mellon University, Zebina Way, Bellefield, Pittsburgh, Allegheny County, Pennsylvania, 15213, United States",40.444189699999995,-79.94271918393466
+5,University of Massachusetts Amherst,8,9.0,metr,"University of Massachusetts Amherst, North Hadley Road, Hadley, Hampshire County, Massachusetts, 01003, United States",42.3869382,-72.52991477067445
+6,TU Delft,7,8.5,metr,"Technische Universiteit Delft, Rijksstraatweg, Wippolder, Delft, Pijnacker-Nootdorp, Zuid-Holland, Nederland, 2628 GZ, Nederland",51.99882735,4.373960368154041
+7,Pennsylvania State University,10,8.3,metr,"Touro College, 320, West 31st Street, Manhattan Community Board 4, Manhattan, New York County, City of New York, New York, 10001, United States",40.7505364,-73.995675
+8,Massachusetts Institute of Technology,8,7.3,metr,"Massachusetts Institute of Technology, Bishop Allen Drive, Central Square, Cambridgeport, Cambridge, Middlesex County, Massachusetts, 02139, United States",42.3582529,-71.0966272383055
+9,University of Michigan,9,7.2,metr,"University of Michigan, 500, South State Street, Ann Arbor, Washtenaw County, Michigan, 48109, United States",42.2942142,-83.71003893509601
+10,Columbia University,9,6.9,metr,"Columbia University, West 120th Street, Manhattan Community Board 9, Manhattan, New York County, City of New York, New York, 10027, United States",40.80775585,-73.96164946987652
+11,Ohio State University,6,6.5,metr,"The Ohio State University at Mansfield, 1760, University Drive, Mansfield, Richland County, Ohio, 44906, United States",40.7988105,-82.5782294
+12,Univ. of Illinois at Urbana-Champaign,10,6.3,metr,"Atkins Golf Club at the University of Illinois, 2600, South Stone Creek Boulevard, Mira, Urbana, Champaign County, Illinois, 61802, United States",40.090629199999995,-88.17641799034426
+13,California Institute of Technology,2,6.2,metr,"California Institute of Technology, San Pasqual Street, Pasadena, Los Angeles County, California, 91125, United States",34.13701375,-118.12528833668254
+13,Max Planck Society,4,6.2,metr,"SKA-MPI (Max Planck Society Precursor), Kareeberg Ward 4, Kareeberg Local Municipality, Pixley ka Seme District Municipality, Northern Cape, South Africa",-30.7179881,21.4130525
+15,Stony Brook University,8,6.1,metr,"Stony Brook University, Town of Brookhaven, Suffolk County, New York, 11794, United States",40.9098832,-73.1215495
+15,Univ. of California - Riverside,8,6.1,metr,"University of California, Riverside, 900, University Avenue, Riverside, Riverside County, California, 92521, United States",33.9642567,-117.3397858271953
+17,University of Southern California,4,6.0,metr,"University of Southern California, Flower Street, Historic South-Central, Los Angeles, Los Angeles County, California, 90007, United States",34.0218833,-118.28586662125
+17,University of Wisconsin - Madison,8,6.0,metr,"University of Wisconsin-Madison, South Allen Street, Regent, Madison, Dane County, Wisconsin, 53726, United States",43.080274450000005,-89.43095871991434
+19,University of Chicago,4,5.9,metr,"The University of Chicago, 5801, South Ellis Avenue, Hyde Park, Chicago, Hyde Park Township, Cook County, Illinois, 60637, United States",41.79139685,-87.60084387193544
+20,IMDEA Networks Institute,5,5.7,metr,"Madrid, Spain",43.5421,-6.52739
+20,Tsinghua University,17,5.7,metr,"清华大学, 30, 双清路, 五道口, 清华园街道, 东升镇, 海淀区, 北京市, 100084, 中国",40.002290450000004,116.3209629696906
+22,University of Maryland - College Park,6,5.6,metr,"University of Maryland, College Park, Baltimore Avenue, University Park, Prince George's County, Maryland, 20742, United States",38.990412449999994,-76.9438585924238
+23,University of Washington,6,5.1,metr,"University of Washington, Yesler Swamp Trail, Seattle, King County, Washington, 98105, United States",47.655622750000006,-122.30272238357196
+24,ETH Zurich,6,4.9,metr,"ETH Zürich, 130, Binzmühlestrasse, Oerlikon, Kreis 11, Zürich, Bezirk Zürich, Zürich, 8050, Schweiz/Suisse/Svizzera/Svizra",47.413218,8.5374914
+25,EPFL,7,4.8,metr,"École Polytechnique Fédérale de Lausanne, Route Louis-Favre, Ecublens, District de l'Ouest lausannois, Vaud, 1024, Schweiz/Suisse/Svizzera/Svizra",46.518659400000004,6.566561505148001
+26,Princeton University,8,4.6,metr,"Princeton University, Alexander Road, Princeton, Mercer County, New Jersey, 08540, United States",40.33867515,-74.65836549131683
+27,Northwestern University,4,4.5,metr,"Northwestern University, 633, Clark Street, Downtown, Evanston, Evanston Township, Cook County, Illinois, 60208, United States",42.0557157,-87.67529454739416
+27,University of Waikato,3,4.5,metr,"University of Waikato, Tralee Place, Ruakura, Hamilton City, Waikato, 3216, New Zealand / Aotearoa",-37.7858739,175.31676647297562
+29,KAIST,6,4.4,metr,"카이스트안경, 명동8나길, 충무로1가, 명동, 중구, 서울특별시, 04536, 대한민국",37.5612302,126.9832396
+30,Purdue University,8,4.3,metr,"Purdue University, 610, West Lafayette, Tippecanoe County, Indiana, 47907, United States",40.430028,-86.92642114650494
